@@ -13,7 +13,7 @@ ChessMind is an end-to-end, multi-tiered chess platform featuring a custom-built
 
 ### 💻 Windows
 1. Double-click **`setup.bat`** (installs Python dependencies, verifies `g++`, and compiles the engine).
-2. Double-click **`run.bat`** (starts the WebSocket bridge and launches the client in your browser).
+2. Double-click **`run.bat`** (starts the WebSocket bridge and launches client in your browser).
 
 ### 🐧 Linux / macOS
 ```bash
